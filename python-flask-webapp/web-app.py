@@ -1,10 +1,9 @@
-from os import abort
-
 import requests
 from flask import Flask, render_template, session, redirect, request, url_for, g, make_response, jsonify
+
+from database import Database
 from twitter_utils import get_request_token, get_authorization_url, get_access_token
 from user import User
-from database import Database
 
 app = Flask(__name__)
 
