@@ -1,2 +1,2 @@
 # code-samples
-Place to store all the code samples I write as part of my learnings.
+Single place to store all the random projects I do as part of my learnings.
