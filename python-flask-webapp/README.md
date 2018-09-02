@@ -6,7 +6,9 @@ and does a sentiment analysis on the tweets before displaying it out on a web pa
 
 
 ### How to install
-For using this application, just download it and execute following command to start the web application
+For using this application, just download it and execute following command to start the web application.
+Also this application uses postgres sql as the backend database. See the database folder to get the ER diagram and 
+schema SQLs.
 ```
 unzip <project.zip>
 cd <project directoy>/python-flask-webapp
