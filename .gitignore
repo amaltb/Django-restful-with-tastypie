@@ -1,4 +1,14 @@
 python-flask-webapp/*.pyc
-django_tutorials/.idea/
+django_tutorials/.idea/*
 django_tutorials/venv/*
 django_tutorials/src/django_tutorials/__pycache__/*
+db.sqlite3
+django_tasypie_tutorial/profiles/__pycache__
+django_tasypie_tutorial/profiles/migrations/__pycache__
+django_tasypie_tutorial/profiles/api/__pycache__
+django_tutorials/django_tutorials/__pycache__
+django_tutorials/media
+django_tutorials/music/__pycache__
+django_tutorials/music/migrations
+python_virtual_environments/django_tasypie_tutorial
+python_virtual_environments/django_tutorial/venv

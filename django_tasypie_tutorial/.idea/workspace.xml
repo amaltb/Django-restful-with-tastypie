@@ -2,44 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31ad605a-556b-46e6-a133-635c9e19f25c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/django_tasypie_tutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/static/music/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/static/music/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/album_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/base_visitor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/create_album.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/create_song.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/form-template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/registration_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../django_tutorials/music/templates/music/songs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/api/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/django_tutorials/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/api/resources.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/django_tutorials/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/django_tutorials/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/django_tutorials/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../django_tutorials/music/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/django_tutorials/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/django_tutorials/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_tutorials/src/music/migrations/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
