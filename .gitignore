@@ -1,1 +1,4 @@
 python-flask-webapp/*.pyc
+django_tutorials/.idea/
+django_tutorials/venv/*
+django_tutorials/src/django_tutorials/__pycache__/*
