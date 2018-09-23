@@ -16,3 +16,7 @@ django_REST_with_tastypie/profiles/migrations/__pycache__
 django_REST_with_tastypie/profiles/api/__pycache__
 django_REST_with_tastypie/.idea
 django_REST_with_tastypie/profiles/__pycache__
+django_tasypie_tutorial/.idea
+django_webapp/media/*
+django_webapp/music/migrations/
+django_webapp/music/__pycache__
