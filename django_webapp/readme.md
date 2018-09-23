@@ -1,4 +1,4 @@
-# django web application
+## django web application
 
 This is a web application built using python django framework. 
 This app uses django version 2.0.3 in the backend and 
@@ -6,7 +6,7 @@ postgres sql at the database side. This app has a basic front end
 developed using bootstrap css and js. This application is built 
 and tested for python version 3.6.
 
-## Installation Steps
+### Installation Steps
 
 
 1. Install python 3.6 if not done already 
